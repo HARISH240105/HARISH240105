@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish240105&label=Profile%20views&color=0e75b6&style=flat" alt="harish240105" /> </p>
 
-- 🔭 Here's my **portfolio**
 
-- 🌱 I’m currently learning **DSA**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p7vy4AP72hVrJW2QOMLnUnCIEqoO8Ou-/view?usp=sharing)
 
@@ -13,11 +11,6 @@
 
 - 📄 Email Address: [sharish24012005@gmail.com](sharish24012005@gmail.com)
 
-- 💬 Ask me about **Tech**
-
-- 🤝 I’m looking for help with **Placements in FAANG**
-
-- 👯 I’m looking to collaborate on **Software Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
