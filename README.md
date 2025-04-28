@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p7vy4AP72hVrJW2QOMLnUnCIEqoO8Ou-/view?usp=sharing)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harish-s-00b454294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📫 How to reach me: [LinkedIn]
 
 - 📄 Email Address: [sharish24012005@gmail.com](sharish24012005@gmail.com)
 
